@@ -1,0 +1,11 @@
+For your challenge, we would like you to do some exploratory analysis on the attached data. This is intentionally open-ended. 
+We want to see what meaning you can extract and communicate without any guidance. 
+The programming language, frameworks, etc that you use are up to you. 
+Our current stack is Python (Polars/Pandas/Plotly), SQL, Streamlit.
+Feel free to use notebooks,markdown, streamlit, or pptx to present your findings.
+
+Make any assumptions necessary and state them in your submission if you need to.
+ 
+Please finish this take home within 4-5 days
+
+Return whatever materials you generate along with an estimate of how long you spent on it.

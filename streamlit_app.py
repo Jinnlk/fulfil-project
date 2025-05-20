@@ -6,8 +6,6 @@ import plotly.express as px
 import plotly.figure_factory as ff
 from sklearn.preprocessing import StandardScaler
 from sklearn.cluster import KMeans
-import seaborn as sns
-import matplotlib.pyplot as plt
 
 st.set_page_config(layout="wide")
 st.title("🤖 Fulfil Product Order Exploratory Data Analysis")
